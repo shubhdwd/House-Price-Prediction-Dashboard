@@ -34,6 +34,12 @@ A Machine Learning project that predicts house prices in Bengaluru based on prop
 ├── requirements.txt
 └── README.md
 ```
+<h2>📸 Project Screenshots</h2>
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="45%" />
+  <img src="screenshots/model_comparison.png" width="45%" />
+</p>
 
 ---
 
