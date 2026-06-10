@@ -1,4 +1,4 @@
-# 🏠 Bengaluru House Price Prediction
+# 🏠 Bengaluru House Price Prediction Dashboard
 
 A Machine Learning project that predicts house prices in Bengaluru based on property features such as area type, location, total square feet, number of bathrooms, balconies, and BHK. The project includes data preprocessing, exploratory data analysis (EDA), model comparison, and an interactive GUI built with CustomTkinter.
 
