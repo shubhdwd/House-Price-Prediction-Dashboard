@@ -24,7 +24,7 @@ A Machine Learning project that predicts house prices in Bengaluru based on prop
 ## 📂 Project Structure
 
 ```text
-├── HousePricePrediction.ipynb
+├── House Price Analysis.ipynb
 ├── dashboard.py
 ├── Bengaluru_House_Data(1).csv
 ├── Bengaluru_House_Cleaned.csv
