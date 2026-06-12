@@ -121,6 +121,8 @@ The project uses the Bengaluru Housing dataset, which contains information such 
 * Balconies
 * Price
 
+Dataset Link - https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?resource=download
+
 ---
 
 ## 🎯 Future Improvements
